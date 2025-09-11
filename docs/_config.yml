@@ -1,6 +1,7 @@
 title: Disabled Data Sovereignty
 description: IVE Project supervised by Dr. KJ Hepworth
-theme: just-the-docs
+theme: jekyll-theme-cayman
+
 
 # Enable sidebar navigation
 just_the_docs:
