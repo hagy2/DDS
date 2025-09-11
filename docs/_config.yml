@@ -6,7 +6,7 @@ plugins:
 
 color_scheme: fun
 
-# Enable sidebar navigation
+# Enable sidebar navigation  
 just_the_docs:
   navigation:
     - title: Home
