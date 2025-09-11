@@ -28,7 +28,7 @@ Each month contains **weekly updates** describing research, development, and pro
 - **November** →   
 - **December** → 
 - **January** →  
-- **February** → .  
+- **February** → 
 
 ---
 
