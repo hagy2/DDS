@@ -1,28 +1,18 @@
 // Fun and accessible custom theme
 
-// Header (top bar)
-$header-background-color: #ec407a;   // fun pink
-$header-text-color: #ffffff;         // white text
-$header-link-color: #ffffff;
-$header-link-hover-color: #ffeb3b;   // yellow hover
+// Header
+$header-background-color: #ec407a !default;  // pink
+$header-text-color: #ffffff !default;        // white
 
 // Body
-$body-background-color: #fff8fb;     // very light pink
-$body-text-color: #222;              // dark for contrast
+$body-background-color: #fff8fb !default;    // light pink
+$body-text-color: #222 !default;
 
-// Sidebar
-$sidebar-color: #f3e5f5;             // lavender background
-$sidebar-border-color: #e1bee7;
-$nav-list-link-color: #222;          // readable dark links
-$nav-list-link-hover-color: #d81b60; // pink hover
-$nav-list-link-active-color: #fff;   // white text when active
-$nav-list-link-active-bg: #8e24aa;   // purple active background
+// Sidebar (fix dark issue)
+$sidebar-color: #f3e5f5 !default;             // lavender background
+$sidebar-border-color: #e1bee7 !default;
 
-// Links (in content)
-$link-color: #1e88e5;                // accessible blue
-$link-hover-color: #d81b60;          // pink hover
-
-// Buttons
-$btn-primary-color: #fff;
-$btn-primary-bg: #ec407a;            // pink button
-$btn-primary-border-color: #d81b60;
+$nav-list-link-color: #222 !default;          // readable dark links
+$nav-list-link-hover-color: #d81b60 !default; // pink hover
+$nav-list-link-active-color: #fff !default;   // white text when active
+$nav-list-link-active-bg: #8e24aa !default;   // purple highlight
