@@ -28,4 +28,47 @@ just_the_docs:
           url: /docs/oct/week1
         - title: Week 2
           url: /docs/oct/week2
-    # … repeat for nov, dec, jan, feb
+        - title: Week 3
+          url: /docs/oct/week3
+        - title: Week 4
+          url: /docs/oct/week4
+    - title: November
+      children:
+        - title: Week 1
+          url: /docs/nov/week1
+        - title: Week 2
+          url: /docs/nov/week2
+        - title: Week 3
+          url: /docs/nov/week3
+        - title: Week 4
+          url: /docs/nov/week4
+    - title: December
+      children:
+        - title: Week 1
+          url: /docs/dec/week1
+        - title: Week 2
+          url: /docs/dec/week2
+        - title: Week 3
+          url: /docs/dec/week3
+        - title: Week 4
+          url: /docs/dec/week4
+    - title: January
+      children:
+        - title: Week 1
+          url: /docs/jan/week1
+        - title: Week 2
+          url: /docs/jan/week2
+        - title: Week 3
+          url: /docs/jan/week3
+        - title: Week 4
+          url: /docs/jan/week4
+    - title: February
+      children:
+        - title: Week 1
+          url: /docs/feb/week1
+        - title: Week 2
+          url: /docs/feb/week2
+        - title: Week 3
+          url: /docs/feb/week3
+        - title: Week 4
+          url: /docs/feb/week4
