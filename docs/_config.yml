@@ -1,6 +1,28 @@
 title: Disabled Data Sovereignty
-description: Accessible docs project (Sep–Feb)
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
+description: IVE Project supervised by Dr. KJ Hepworth
+theme: just-the-docs
+
+# Enable sidebar navigation
+just_the_docs:
+  navigation:
+    - title: Home
+      url: /
+    - title: About
+      url: /about
+    - title: September
+      children:
+        - title: Week 1
+          url: /docs/sep/week1
+        - title: Week 2
+          url: /docs/sep/week2
+        - title: Week 3
+          url: /docs/sep/week3
+        - title: Week 4
+          url: /docs/sep/week4
+    - title: October
+      children:
+        - title: Week 1
+          url: /docs/oct/week1
+        - title: Week 2
+          url: /docs/oct/week2
+    # … repeat for nov, dec, jan, feb
