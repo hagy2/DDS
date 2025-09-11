@@ -1,35 +1,37 @@
 ---
 layout: default
-title: Disabled Data Sovereignty
+title: Disabled Data Sovereignty Documentation
 ---
 
-# Disabled Data Sovereignty — Documentation
+# Disabled Data Sovereignty Documentation
 
-Welcome! This documentation records my work on the **Disabled Data Sovereignty**  
-project, carried out as part of the **IVE program** and supervised by  
-**Dr. KJ Hepworth**.
-
-The project runs from **September to February**, is hosted on **Hetzner Cloud**,  
-and is designed to be **accessible, inclusive, and engaging**.  
-It draws inspiration from **Yunohost**  but is tailored  
-to be more user-friendly and less technical, with a strong focus on  
-**accessibility compliance** (WCAG 2.1 AA standards).
+This documentation is part of the **IVE Project on Disabled Data Sovereignty**,  
+supervised by **Dr. KJ Hepworth**.
 
 ---
 
-## 📅 Months
-- [September](./sep/index.md)
-- [October](./oct/index.md)
-- [November](./nov/index.md)
-- [December](./dec/index.md)
-- [January](./jan/index.md)
-- [February](./feb/index.md)
+## 📖 About This Project
+The goal of this project is to explore **data sovereignty for disabled communities** by building  
+an accessible and less technical self-hosting framework, inspired by Yunohost.  
+
+It is hosted on **Hetzner Cloud** and designed to meet **accessibility compliance standards**,  
+ensuring inclusivity for people with different abilities.  
 
 ---
 
-## 🌍 About the Approach
-- **Accessible first** → designed to work for people with diverse abilities.  
-- **Fun and colorful** → avoids overly technical language while staying accurate.  
-- **Transparent** → weekly logs track progress and decision making.  
+## 📚 Structure
+The documentation is divided into **months (September → February)**.  
+Each month contains **weekly updates** describing research, development, and progress.  
+
+- **September** → VM setup, researching Yunohost, accessibility review.  
+- **October** →  
+- **November** →   
+- **December** → 
+- **January** →  
+- **February** → .  
 
 ---
+
+## 🚀 How to Navigate
+- Use the **sidebar dashboard** (left side) to access months and weeks directly.  
+- Start by exploring [September → Week 1](/docs/sep/week1).  
