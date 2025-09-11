@@ -1,12 +1,13 @@
-title: Disabled Data Sovereignty
-description: IVE Project supervised by Dr. KJ Hepworth
+title: "Disabled Data Sovereignty"
+description: "IVE Project supervised by Dr. KJ Hepworth"
+
 remote_theme: just-the-docs/just-the-docs
+
 plugins:
   - jekyll-remote-theme
 
- color_scheme: fun
+color_scheme: fun
 
-# Enable sidebar navigation  
 just_the_docs:
   navigation:
     - title: Home
