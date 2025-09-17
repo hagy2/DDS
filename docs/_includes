@@ -1,0 +1,7 @@
+<footer class="site-footer">
+  <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }} — {{ site.description }}</p>
+  <p>
+    <a href="https://github.com/yourusername/yourrepo">View on GitHub</a> |
+    <a href="/about">About</a>
+  </p>
+</footer>
