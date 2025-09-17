@@ -74,3 +74,8 @@ just_the_docs:
           url: /docs/feb/week3
         - title: Week 4
           url: /docs/feb/week4
+
+          just_the_docs:
+  footer_content: " Repo link " 
+  footer_custom: footer_custom.html
+
