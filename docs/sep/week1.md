@@ -13,8 +13,6 @@ an inclusive path.
 ---
 
 ## ✅ Tasks Completed
-- **Created VM in Hetzner Cloud**  
-  Set up a virtual machine on Hetzner to host the project infrastructure.  
 
 - **Researched Yunohost documentation**  
   Studied how Yunohost organizes its guides and documentation structure  
