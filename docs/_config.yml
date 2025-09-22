@@ -12,67 +12,83 @@ just_the_docs:
   navigation:
     - title: Home
       url: /
+
     - title: About
       url: /about
-    - title: September
+
+    - title: Months
       children:
-        - title: Week 1
-          url: /docs/sep/week1
-        - title: Week 2
-          url: /docs/sep/week2
-        - title: Week 3
-          url: /docs/sep/week3
-        - title: Week 4
-          url: /docs/sep/week4
-    - title: October
-      children:
-        - title: Week 1
-          url: /docs/oct/week1
-        - title: Week 2
-          url: /docs/oct/week2
-        - title: Week 3
-          url: /docs/oct/week3
-        - title: Week 4
-          url: /docs/oct/week4
-    - title: November
-      children:
-        - title: Week 1
-          url: /docs/nov/week1
-        - title: Week 2
-          url: /docs/nov/week2
-        - title: Week 3
-          url: /docs/nov/week3
-        - title: Week 4
-          url: /docs/nov/week4
-    - title: December
-      children:
-        - title: Week 1
-          url: /docs/dec/week1
-        - title: Week 2
-          url: /docs/dec/week2
-        - title: Week 3
-          url: /docs/dec/week3
-        - title: Week 4
-          url: /docs/dec/week4
-    - title: January
-      children:
-        - title: Week 1
-          url: /docs/jan/week1
-        - title: Week 2
-          url: /docs/jan/week2
-        - title: Week 3
-          url: /docs/jan/week3
-        - title: Week 4
-          url: /docs/jan/week4
-    - title: February
-      children:
-        - title: Week 1
-          url: /docs/feb/week1
-        - title: Week 2
-          url: /docs/feb/week2
-        - title: Week 3
-          url: /docs/feb/week3
-        - title: Week 4
-          url: /docs/feb/week4
+        - title: September
+          url: /docs/sep/
+          children:
+            - title: Week 1
+              url: /docs/sep/week1
+            - title: Week 2
+              url: /docs/sep/week2
+            - title: Week 3
+              url: /docs/sep/week3
+            - title: Week 4
+              url: /docs/sep/week4
+
+        - title: October
+          url: /docs/oct/
+          children:
+            - title: Week 1
+              url: /docs/oct/week1
+            - title: Week 2
+              url: /docs/oct/week2
+            - title: Week 3
+              url: /docs/oct/week3
+            - title: Week 4
+              url: /docs/oct/week4
+
+        - title: November
+          url: /docs/nov/
+          children:
+            - title: Week 1
+              url: /docs/nov/week1
+            - title: Week 2
+              url: /docs/nov/week2
+            - title: Week 3
+              url: /docs/nov/week3
+            - title: Week 4
+              url: /docs/nov/week4
+
+        - title: December
+          url: /docs/dec/
+          children:
+            - title: Week 1
+              url: /docs/dec/week1
+            - title: Week 2
+              url: /docs/dec/week2
+            - title: Week 3
+              url: /docs/dec/week3
+            - title: Week 4
+              url: /docs/dec/week4
+
+        - title: January
+          url: /docs/jan/
+          children:
+            - title: Week 1
+              url: /docs/jan/week1
+            - title: Week 2
+              url: /docs/jan/week2
+            - title: Week 3
+              url: /docs/jan/week3
+            - title: Week 4
+              url: /docs/jan/week4
+
+        - title: February
+          url: /docs/feb/
+          children:
+            - title: Week 1
+              url: /docs/feb/week1
+            - title: Week 2
+              url: /docs/feb/week2
+            - title: Week 3
+              url: /docs/feb/week3
+            - title: Week 4
+              url: /docs/feb/week4
+
 
   footer_custom: footer_custom.html
