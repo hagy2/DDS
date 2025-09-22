@@ -75,5 +75,4 @@ just_the_docs:
         - title: Week 4
           url: /docs/feb/week4
 
-  ooter_content: >
-    📂 <a href="https://github.com/hagy2/DDS.git" target="_blank">View on GitHub</a>
+  footer_custom: footer_custom.html
