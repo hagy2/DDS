@@ -11,24 +11,34 @@ supervised by **Dr. KJ Hepworth**.
 ---
 
 ## 📖 About This Project
-The goal of this project is to explore **data sovereignty for disabled communities** by building  
-an accessible and less technical self-hosting framework, inspired by Yunohost.  
+This project investigates how disabled people and communities can exercise  
+**control over their own data (data sovereignty)** in ways that are **accessible, inclusive, and practical**.  
 
-It is  designed to meet **accessibility compliance standards**,  
-ensuring inclusivity for people with different abilities.  
+Many existing self-hosting tools (like Yunohost) are designed for technically skilled users,  
+which creates a barrier for disabled people who may face **accessibility challenges, technical barriers, or exclusion from digital sovereignty movements**.  
+
+To address this, the project:  
+- Experiments with **accessible self-hosting** using Yunohost as a starting point.  
+- Reviews and tests Yunohost applications for **search accuracy, categorization, and accessibility**.  
+- Documents the process of setting up and maintaining a **local server** with simplified, guided steps.  
+- Aligns the work with **international accessibility standards** (such as WCAG) to ensure inclusivity.  
+- Engages with the **Yunohost community** to share findings, propose improvements, and build awareness.  
+
+The long-term vision is to prototype an **accessible self-hosting framework**  
+that empowers disabled people to own, manage, and protect their data without relying on inaccessible or overly technical infrastructures.  
 
 ---
 
 ## 📚 Structure
-The documentation is divided into **months (September → February)**.  
-Each month contains **weekly updates** describing research, development, and progress.  
+The documentation is organized **month by month (September → February)**,  
+with each month broken into **weekly updates** covering research, development, testing, and community engagement.  
 
-- **September** → VM setup, researching Yunohost, accessibility review.  
+- **September** → Initial setup, VM testing, first Yunohost app reviews, accessibility notes.  
 - **October** →  
-- **November** →   
-- **December** → 
+- **November** →  
+- **December** →  
 - **January** →  
-- **February** → 
+- **February** →  
 
 ---
 
