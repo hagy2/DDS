@@ -1,7 +1,7 @@
-title: "Disabled Data Sovereignty "
+title: "Disabled Data Sovereignty"
 description: "IVE Project supervised by Dr. KJ Hepworth"
 
-remote_theme: just-the-docs/just-the-docs 
+remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-remote-theme
@@ -75,7 +75,4 @@ just_the_docs:
         - title: Week 4
           url: /docs/feb/week4
 
-          just_the_docs:
-  footer_content: " Repo link " 
-  footer_custom: footer_custom.html
-
+  footer_content: "This project is open source — <a href='https://github.com/hagy2/DDS.git' target='_blank'>View on GitHub</a>"
