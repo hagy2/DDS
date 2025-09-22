@@ -14,7 +14,7 @@ supervised by **Dr. KJ Hepworth**.
 The goal of this project is to explore **data sovereignty for disabled communities** by building  
 an accessible and less technical self-hosting framework, inspired by Yunohost.  
 
-It is hosted on **Hetzner Cloud** and designed to meet **accessibility compliance standards**,  
+It is  designed to meet **accessibility compliance standards**,  
 ensuring inclusivity for people with different abilities.  
 
 ---
