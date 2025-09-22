@@ -1,5 +1,6 @@
 ---
 title: September — Week 1
+parent: September
 ---
 
 # Week 1 — September
