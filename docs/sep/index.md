@@ -1,5 +1,6 @@
 ---
 title: September
+nav_order: 1
 ---
 
 # September – Project Kickoff
