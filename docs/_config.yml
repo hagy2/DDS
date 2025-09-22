@@ -11,7 +11,7 @@ color_scheme: fun
 just_the_docs:
   navigation:
     - title: Home
-      url: /
+      url: /index
 
     - title: About
       url: /about
