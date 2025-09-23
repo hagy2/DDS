@@ -18,7 +18,7 @@ This week focused on three main areas:
 - **Fine tuned documentation static site**  
   Adding links between static site and repo site.  
 
-- **Set up local Yunohost server | KJH**  
+- **Set up local Yunohost server**  
   Using a dedicated, refurbished tiny PC on a home network to host the test server.
   
   - Set up Lenovo mini PC & connect to router  
@@ -29,9 +29,9 @@ This week focused on three main areas:
   - Flash PC with Debian from USB (graphical install, details saved in 1Password vault)  
   - Flash PC with Yunohost from USB (graphical install, details saved in 1Password vault)  
 
-- **Set up local backup storage via SMB | KJH**  
+- **Set up local backup storage via SMB**  
 
-- **Set up shared project password store | KJH**  
+- **Set up shared project password store**  
   Share details  
 
 - **Allow local Yunohost server required internet access | KJH**  
@@ -46,6 +46,16 @@ This week focused on three main areas:
   - Shared the project goals and description.   
   - Started building visibility and potential for community input and collaboration.  
 
+- **Complete base Yunohost setup**
+  - Problem solve outstanding issues
+    - server/router IP mismatch
+    - web not reachable
+    - dns issues
+    - Router <> Yunohost compatibility
+   
+- **Create backup account**
+  Set up Borg for backups
+  
 ---
 
 ## 📌 Notes
