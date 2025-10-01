@@ -1,5 +1,6 @@
 ---
-
+title: September — Week 2 - Detailed technical notes
+parent: Technical notes
 ---
 
 # Detailed notes on alpha prototype server setup
