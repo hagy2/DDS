@@ -1,6 +1,6 @@
 ---
-Title: September - Week 1 - Detailed technical notes
-Parent: September
+title: September - Week 1 - Detailed technical notes
+parent: September
 ---
 
 # Detailed Technical Notes for Setting up alpha protoytpe server using Yunohost 
