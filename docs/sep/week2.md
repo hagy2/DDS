@@ -34,7 +34,7 @@ This week focused on three main areas:
 - **Set up shared project password store**  
   Share details  
 
-- **Allow local Yunohost server required internet access | KJH**  
+- **Allow local Yunohost server required internet access**  
   On router, opened local ports  
 
 - **Reviewed Yunohost apps via demo site**  
@@ -54,7 +54,7 @@ This week focused on three main areas:
     - Router <> Yunohost compatibility
    
 - **Create backup account**
-  Set up Borg for backups
+  Set up BorgBase for backups
   
 ---
 
