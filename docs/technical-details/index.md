@@ -2,7 +2,7 @@
 layout: page
 title: Technical Details
 permalink: /technical-details/
-nav_order: 5
+nav_order: 7
 has_children: true
 ---
 
