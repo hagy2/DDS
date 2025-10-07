@@ -1,5 +1,5 @@
 ---
-title: Detailed Technical Notes
+title: alpha server prototype detailed Technical Notes
 parent: Technical Details
 nav_order: 1
 ---
