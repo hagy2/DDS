@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Accessibility Testing
 parent: Technical Details
 nav_order: 2
