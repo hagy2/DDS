@@ -1,3 +1,9 @@
+---
+title: alpha prototupe server details
+parent: technical-details
+nav_order: 1
+---
+
 # Detailed Technical Notes on Alpha Prototype Server Setup
 
 ## Connectivity
