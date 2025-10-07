@@ -1,7 +1,7 @@
 ---
-layout: page
-title: DNS & Domains
-permalink: /technical-details/dns/
+title: domain details
+parent: technical-details
+nav_order: 4
 ---
 
 # DNS & Domains
