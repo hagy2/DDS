@@ -1,6 +1,6 @@
 ---
-title: domain details
-parent: technical-details
+title: DNS & Domains
+parent: Technical Details
 nav_order: 4
 ---
 
@@ -13,3 +13,4 @@ This page records domain and DNS settings used in the project.
 - Subdomain example tested: `dds.nohost.me`
 
 ## Recommended records
+*(to be expanded with final working DNS records)*
