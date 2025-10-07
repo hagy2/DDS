@@ -2,7 +2,6 @@
 layout: page
 title: Accessibility Testing
 parent: Technical Details
-permalink: /technical-details/accessibility/
 nav_order: 2
 ---
 
