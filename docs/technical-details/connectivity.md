@@ -1,6 +1,6 @@
 ---
-title: connectivity details
-parent: technical-details
+title: Connectivity
+parent: Technical Details
 nav_order: 3
 ---
 
