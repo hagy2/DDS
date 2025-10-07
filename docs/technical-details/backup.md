@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Backups
-permalink: /technical-details/backups/
+title: backup details
+parent: technical-details
+nav_order: 1
 ---
 
 # Backups
