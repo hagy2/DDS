@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Connectivity
-permalink: /technical-details/connectivity/
+title: connectivity details
+parent: technical-details
+nav_order: 3
 ---
 
 # Connectivity
