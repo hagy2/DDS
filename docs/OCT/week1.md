@@ -1,4 +1,7 @@
 # Week 1 Documentation
+title: Week 1
+parent: October
+nav_order: 1
 
 ## Summary of Progress
 - Installed and configured essential apps:
