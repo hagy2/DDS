@@ -20,7 +20,7 @@ nav_order: 1
 ---
 
 ## Research Findings *(Preliminary / Under Review)*
-> ⚠️ These findings are **not final**. They are initial observations and insights from reviewing reference projects documentations to guide improvements for YunoHost accessibility and usability. hands on trial will be ddone.
+> ⚠️ These findings are **not final**. They are initial observations and insights from reviewing reference projects documentations and users' discussions to guide improvements for YunoHost accessibility and usability. hands on trial will be done.
 
 | Platform      | Accessibility Strengths                                                                                                   | Accessibility Weaknesses                                                                                       | Self-Hosting Experience                                                                                 | UI/UX Observations                                                                                       |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
