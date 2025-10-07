@@ -1,6 +1,6 @@
 ---
-title: alpha prototupe server details
-parent: technical-details
+title: Detailed Technical Notes
+parent: Technical Details
 nav_order: 1
 ---
 
