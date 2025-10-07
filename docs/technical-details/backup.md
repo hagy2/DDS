@@ -1,6 +1,6 @@
 ---
-title: backup details
-parent: technical-details
+title: Backups
+parent: Technical Details
 nav_order: 2
 ---
 
@@ -10,15 +10,14 @@ This page documents backup experiments with YunoHost.
 
 ## Local backups
 - Tested **YunoHost GUI → Backups**.
-- Successfully created backups of apps .
+- Successfully created backups of apps.
 - Verified that `.tar.gz` archives were stored locally.
 
 ## Remote backups (Borg)
 - Attempted setup with **BorgBase** as remote backup target.
 
-
 ## Next steps
-- complete remote backup
+- Complete remote backup setup.
 - Re-test Borg repo initialization.
 - Explore alternative backup systems (e.g. rsync, Restic) in case Borg proves inaccessible.
 
