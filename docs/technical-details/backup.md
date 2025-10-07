@@ -1,7 +1,7 @@
 ---
 title: backup details
 parent: technical-details
-nav_order: 1
+nav_order: 2
 ---
 
 # Backups
