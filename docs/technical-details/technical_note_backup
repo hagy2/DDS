@@ -55,6 +55,6 @@ To use 1password in terminal to save my keys generated via command line, and use
   - Result: confusing! graphic user interface says borg is running, command line says interactive authentication needed.
 - Try editing the repository name to make connection from Borg Backup yunohost app to borgbase
   
-  - Typed `ssh://jop3k1zw@jop3k1zw.repo.borgbase.com:22/~/dds`
+  - Typed `ssh://<repo_number>.repo.borgbase.com:22/~/dds`
 
 Several steps after this that I didn't document in real time. Each effort failed. I think it is an SSH permissions issue.
