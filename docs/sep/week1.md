@@ -3,7 +3,7 @@ title: September — Week 1
 parent: September
 ---
 
-# Week 1 — September
+# Week 1 — September 14-20, 2025
 
 **Summary:**  
 This week focused on setting up the foundation for the project.  
