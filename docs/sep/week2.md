@@ -3,7 +3,7 @@ title: September — Week 2
 parent: September
 ---
 
-# Week 2 — September
+# Week 2 — September 21-27, 2025
 
 **Summary:**  
 This week focused on three main areas:  
