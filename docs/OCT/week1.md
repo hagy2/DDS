@@ -4,7 +4,7 @@ parent: October
 nav_order: 1
 ---
 
-# Week 1 Documentation
+# Week 1 Documentation — September 28-October 4, 2025
 
 ## Summary of Progress
 - Installed and configured essential apps:
