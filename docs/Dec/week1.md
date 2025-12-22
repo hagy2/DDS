@@ -1,3 +1,8 @@
+---
+title: Week 1
+parent: Dec
+nav_order: 1
+---
 # Week 1 – User Groups and Access Control
 
 ### Focus
